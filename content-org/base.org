@@ -1,0 +1,84 @@
+#+HUGO_BASE_DIR: ../
+#+HUGO_AUTO_SET_LASTMOD: t
+#+SEQ_TODO: TODO NEXT DRAFT DONE
+#+OPTIONS:   *:t <:nil timestamp:nil toc:t
+
+* Home 
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: home
+  :EXPORT_FILE_NAME: home
+  :END:
+  
+  This section is the home screen... Try to get it to automatically provide updates on contents
+
+* About
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: about
+  :EXPORT_FILE_NAME: about 
+  :EXPORT_HUGO_MENU: :menu "main"
+  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :key value
+  :END:
+  
+  This section will be about myself ... What would I add here? maybe nothing?
+
+** Family 
+   Cool this thing can do sections
+   - Amber - Wife
+   - Ayesha - Daughter
+
+** Extended Family
+   This section could be about my extended family
+
+* Islam
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: religion
+  :EXPORT_FILE_NAME: religion
+  :EXPORT_HUGO_MENU: :menu "main"
+  :END:
+  
+  Religious writing goes in here. 
+
+* Mathematics
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: mathematics
+  :EXPORT_FILE_NAME: mathematics
+  :EXPORT_HUGO_MENU: :menu "main"
+  :END:
+
+  Mathematical study goes in here
+
+* Machine Learning
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: mlai
+  :EXPORT_FILE_NAME: mlai
+  :EXPORT_HUGO_MENU: :menu "main"
+  :END:
+
+  Machine Learning goes in here
+
+* Physical Science
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: mathematics
+  :EXPORT_FILE_NAME: mathematics
+  :EXPORT_HUGO_MENU: :menu "main"
+  :END:
+
+  Physical Sciences goes in here
+
+* Music
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: music
+  :EXPORT_FILE_NAME: music
+  :EXPORT_HUGO_MENU: :menu "main"
+  :END:
+
+  Musical studies goes in here
+
+* Books Read
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: booksread
+  :EXPORT_FILE_NAME: booksread
+  :EXPORT_HUGO_MENU: :menu "main"
+  :END:
+
+  Books I've read go in here
