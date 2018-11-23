@@ -20,6 +20,8 @@
    - Setup git / magit for push to publish automatically
    - Enable contact information, link to LinkedIn page
    - Find spell checker and use grammarly for posts
+   - Add resume / CV
+   - Add engineering section
 
 * About 
   :PROPERTIES:
@@ -82,6 +84,16 @@
   :END:
 
   Sciences goes in here
+
+
+* Engineering
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: engineering
+  :EXPORT_FILE_NAME: _index
+  :EXPORT_HUGO_MENU: :menu "main"
+  :END:
+
+  Engineering goes in here
 
 
 * Music
