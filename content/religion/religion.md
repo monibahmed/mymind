@@ -1,7 +1,7 @@
 +++
 title = "Religion"
 author = ["Monib Ahmed"]
-lastmod = 2018-11-23T00:02:50-07:00
+lastmod = 2018-11-23T00:04:07-07:00
 draft = false
 [menu.main]
   weight = 1003
