@@ -1,11 +1,11 @@
 +++
-title = "Physical Science"
+title = "Mathematics"
 author = ["Monib Ahmed"]
-lastmod = 2018-11-23T00:04:08-07:00
+lastmod = 2018-11-23T00:06:34-07:00
 draft = false
 [menu.main]
-  weight = 1006
-  identifier = "physical-science"
+  weight = 1004
+  identifier = "mathematics"
 +++
 
-Physical Sciences goes in here
+Mathematical study goes in here

@@ -1,7 +1,7 @@
 #+HUGO_BASE_DIR: ../
 #+HUGO_AUTO_SET_LASTMOD: t
 #+SEQ_TODO: TODO NEXT DRAFT DONE
-#+OPTIONS:   *:t <:nil timestamp:nil toc:t
+#+OPTIONS:   *:t <:nil timestamp:nil toc:nil
 
 * Home 
   :PROPERTIES:
@@ -65,14 +65,14 @@
 
   Machine Learning goes in here
 
-* Physical Science
+* Science
   :PROPERTIES:
-  :EXPORT_HUGO_SECTION: mathematics
-  :EXPORT_FILE_NAME: mathematics
+  :EXPORT_HUGO_SECTION: science 
+  :EXPORT_FILE_NAME: science
   :EXPORT_HUGO_MENU: :menu "main"
   :END:
 
-  Physical Sciences goes in here
+  Sciences goes in here
 
 * Music
   :PROPERTIES:
