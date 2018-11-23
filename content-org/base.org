@@ -17,7 +17,10 @@
    - Setup submenus
    - Setup toc / book type for writing
    - Setup tags and categories to be in sync with emacs
- 
+   - Setup git / magit for push to publish automatically
+   - Enable contact information, link to LinkedIn page
+   - Find spell checker and use grammarly for posts
+
 * About 
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: about
