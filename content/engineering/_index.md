@@ -1,11 +1,11 @@
 +++
-title = "Music"
+title = "Engineering"
 author = ["Monib Ahmed"]
 lastmod = 2018-11-23T11:56:55-07:00
 draft = false
 [menu.main]
-  weight = 1008
-  identifier = "music"
+  weight = 1007
+  identifier = "engineering"
 +++
 
-Musical studies goes in here
+Engineering goes in here
