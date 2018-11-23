@@ -1,7 +1,7 @@
 +++
 title = "Home"
 author = ["Monib Ahmed"]
-lastmod = 2018-11-23T11:56:54-07:00
+lastmod = 2018-11-23T12:00:17-07:00
 draft = false
 +++
 
@@ -20,3 +20,4 @@ This section is the home screen... Try to get it to automatically provide update
 -   Find spell checker and use grammarly for posts
 -   Add resume / CV
 -   Add engineering section
+-   Maybe look at tracking and scheduling on website

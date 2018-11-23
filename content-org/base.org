@@ -22,6 +22,7 @@
    - Find spell checker and use grammarly for posts
    - Add resume / CV
    - Add engineering section
+   - Maybe look at tracking and scheduling on website
 
 * About 
   :PROPERTIES:
@@ -52,7 +53,7 @@
   Religious writing goes in here.
 
  
-** Unity of God
+** TODO Unity of God
 ** Prayers
 
 
