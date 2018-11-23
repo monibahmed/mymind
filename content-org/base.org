@@ -43,7 +43,7 @@
    This section could be about my extended family
 
 
-* Religion 
+* TODO Religion     :@religion: 
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: religion
   :EXPORT_FILE_NAME: _index 
@@ -51,11 +51,9 @@
   :END:
 
   Religious writing goes in here.
-
  
-** TODO Unity of God
+** Unity of God
 ** Prayers
-
 
 * Mathematics
   :PROPERTIES:
