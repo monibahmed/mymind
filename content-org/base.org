@@ -13,6 +13,7 @@
  
 ** Working Items:
    - Update colors, and embed stuff
+   - Setup draft and done items
 
  
 * About 
