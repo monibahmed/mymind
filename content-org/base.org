@@ -39,8 +39,13 @@
   :EXPORT_FILE_NAME: religion
   :EXPORT_HUGO_MENU: :menu "main"
   :END:
-  
-  Religious writing goes in here. 
+
+  Religious writing goes in here.
+
+ 
+** Unity of God
+** Prayers
+
 
 * Mathematics
   :PROPERTIES:
