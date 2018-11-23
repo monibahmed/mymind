@@ -10,7 +10,11 @@
   :END:
   
   This section is the home screen... Try to get it to automatically provide updates on contents
+ 
+** Working Items:
+   - Update colors, and embed stuff
 
+ 
 * About
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: about
