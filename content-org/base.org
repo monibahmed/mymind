@@ -33,7 +33,7 @@
 ** Extended Family
    This section could be about my extended family
 
-* Islam
+* Religion 
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: religion
   :EXPORT_FILE_NAME: religion
