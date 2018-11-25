@@ -1,11 +1,13 @@
 +++
 title = "Mathematics"
 author = ["Monib Ahmed"]
-lastmod = 2018-11-23T12:17:49-07:00
+lastmod = 2018-11-24T23:16:34-07:00
 draft = false
+toc = true
+type = "docs"
 [menu.main]
-  weight = 1004
+  weight = 1003
   identifier = "mathematics"
 +++
 
-Mathematical study goes in here
+Trying out the new Mathematics setup

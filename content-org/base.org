@@ -1,9 +1,8 @@
 #+HUGO_BASE_DIR: ../
 #+HUGO_AUTO_SET_LASTMOD: t
 #+SEQ_TODO: TODO NEXT DRAFT DONE
-#+OPTIONS:   *:t <:nil timestamp:nil toc:nil
 
-* Home 
+* Home
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: home
   :EXPORT_FILE_NAME: home
@@ -24,85 +23,73 @@
    - Add engineering section
    - Maybe look at tracking and scheduling on website
 
-* About 
-  :PROPERTIES:
-  :EXPORT_HUGO_SECTION: about
-  :EXPORT_FILE_NAME: _index 
-  :EXPORT_HUGO_MENU: :menu "main"
-  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :key value
-  :END:
-  
-  This section will be about myself ... What would I add here? maybe nothing?
 
-** Family 
-   Cool this thing can do sections
-   - Amber - Wife
-   - Ayesha - Daughter
-
-** Extended Family
-   This section could be about my extended family
-
-
-* TODO Religion     :@religion: 
+* Religion
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: religion
-  :EXPORT_FILE_NAME: _index 
+  :EXPORT_FILE_NAME: _index
   :EXPORT_HUGO_MENU: :menu "main"
+  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
-
-  Religious writing goes in here.
- 
-** Unity of God
-** Prayers
-
+  
+  Trying out the new religion setup 
+  
+  
 * Mathematics
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: mathematics
-  :EXPORT_FILE_NAME: _index 
+  :EXPORT_FILE_NAME: _index
   :EXPORT_HUGO_MENU: :menu "main"
+  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
-
-  Mathematical study goes in here
-
+  
+  Trying out the new Mathematics setup 
+  
+  
+* Science
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: science
+  :EXPORT_FILE_NAME: _index
+  :EXPORT_HUGO_MENU: :menu "main"
+  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
+  :END:
+  
+  Trying out the new science setup 
+  
+  
+* Engineering
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: engineering
+  :EXPORT_FILE_NAME: _index
+  :EXPORT_HUGO_MENU: :menu "main"
+  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
+  :END:
+  
+  Trying out the new engineering setup 
+  
+  
 
 * Machine Learning
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: mlai
   :EXPORT_FILE_NAME: _index
   :EXPORT_HUGO_MENU: :menu "main"
+  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
-
-  Machine Learning goes in here
-
-
-* Science
-  :PROPERTIES:
-  :EXPORT_HUGO_SECTION: science 
-  :EXPORT_FILE_NAME: _index
-  :EXPORT_HUGO_MENU: :menu "main"
-  :END:
-
-  Sciences goes in here
-
-
-* Engineering
-  :PROPERTIES:
-  :EXPORT_HUGO_SECTION: engineering
-  :EXPORT_FILE_NAME: _index
-  :EXPORT_HUGO_MENU: :menu "main"
-  :END:
-
-  Engineering goes in here
-
+  
+  Trying out the new Machine Learning setup 
+  
+  
 
 * Music
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: music
   :EXPORT_FILE_NAME: _index
   :EXPORT_HUGO_MENU: :menu "main"
+  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
-
-  Musical studies goes in here
+  
+  Trying out the new music setup 
 
 
 * Books Read
@@ -110,6 +97,28 @@
   :EXPORT_HUGO_SECTION: booksread
   :EXPORT_FILE_NAME: _index
   :EXPORT_HUGO_MENU: :menu "main"
+  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
+  
+  Trying out the new books read setup 
+  
 
-  Books I've read go in here
+* Career
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: career
+  :EXPORT_FILE_NAME: _index
+  :EXPORT_HUGO_MENU: :menu "main"
+  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
+  :END:
+  
+  Trying out the new career setup 
+  
+  
+
+
+
+
+
+
+
+

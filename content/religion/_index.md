@@ -1,18 +1,13 @@
 +++
 title = "Religion"
 author = ["Monib Ahmed"]
-lastmod = 2018-11-23T12:17:49-07:00
-categories = ["religion"]
-draft = true
+lastmod = 2018-11-24T23:16:34-07:00
+draft = false
+toc = true
+type = "docs"
 [menu.main]
-  weight = 1003
+  weight = 1002
   identifier = "religion"
 +++
 
-Religious writing goes in here.
-
-
-## Unity of God {#unity-of-god}
-
-
-## Prayers {#prayers}
+Trying out the new religion setup

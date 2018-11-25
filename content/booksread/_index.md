@@ -1,11 +1,13 @@
 +++
 title = "Books Read"
 author = ["Monib Ahmed"]
-lastmod = 2018-11-23T12:17:50-07:00
+lastmod = 2018-11-24T23:16:35-07:00
 draft = false
+toc = true
+type = "docs"
 [menu.main]
-  weight = 1009
+  weight = 1008
   identifier = "books-read"
 +++
 
-Books I've read go in here
+Trying out the new books read setup
