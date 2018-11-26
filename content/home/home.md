@@ -1,7 +1,6 @@
 +++
 title = "Home"
 author = ["Monib Ahmed"]
-lastmod = 2018-11-25T12:01:14-07:00
 draft = false
 +++
 
@@ -17,4 +16,4 @@ This section is the home screen... Try to get it to automatically provide update
 -   Find spell checker and use grammarly for posts
 -   Add resume / CV
 -   Maybe look at tracking and scheduling on website
--   Change org styling
+-   Change org styling in Emacs

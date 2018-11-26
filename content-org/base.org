@@ -1,5 +1,4 @@
 #+HUGO_BASE_DIR: ../
-#+HUGO_AUTO_SET_LASTMOD: t
 #+SEQ_TODO: TODO NEXT DRAFT DONE
 
 * Home
@@ -18,7 +17,7 @@
    - Find spell checker and use grammarly for posts
    - Add resume / CV
    - Maybe look at tracking and scheduling on website
-   - Change org styling 
+   - Change org styling in Emacs 
 
 
 * Religion
