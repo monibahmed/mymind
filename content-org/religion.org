@@ -1,7 +1,7 @@
 #+HUGO_BASE_DIR: ../
 #+HUGO_SECTION: religion
 
-* Section 1
+* Islam 
   :PROPERTIES:
   :EXPORT_FILE_NAME: section1
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs :linktitle "Section 1"
@@ -16,7 +16,7 @@
    Sup blah here
 
 
-* Section 2
+* Christianity
   :PROPERTIES:
   :EXPORT_FILE_NAME: section2
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs :linktitle "Section 2"

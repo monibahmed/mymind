@@ -28,7 +28,6 @@
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
   
-  Trying out the new religion setup 
   
   
 * Mathematics
@@ -39,7 +38,6 @@
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
   
-  Trying out the new Mathematics setup 
   
   
 * Science
@@ -50,7 +48,6 @@
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
   
-  Trying out the new science setup 
   
   
 * Engineering
@@ -61,7 +58,6 @@
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
   
-  Trying out the new engineering setup 
   
   
 
@@ -73,7 +69,6 @@
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
   
-  Trying out the new Machine Learning setup 
   
   
 
@@ -85,7 +80,6 @@
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
   
-  Trying out the new music setup 
 
 
 * Books Read
@@ -96,7 +90,6 @@
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
   
-  Trying out the new books read setup 
   
 
 * Career
@@ -106,15 +99,11 @@
   :EXPORT_HUGO_MENU: :menu "main"
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
+
+
+
+
+
+
+
   
-  Trying out the new career setup 
-  
-  
-
-
-
-
-
-
-
-

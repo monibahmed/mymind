@@ -1,5 +1,5 @@
 +++
-title = "Section 1"
+title = "Islam"
 author = ["Monib Ahmed"]
 draft = false
 toc = true
@@ -7,7 +7,7 @@ type = "docs"
 linktitle = "Section 1"
 [menu.religion]
   weight = 1001
-  identifier = "section-1"
+  identifier = "islam"
 +++
 
 ## Subsection 1.1 {#subsection-1-dot-1}

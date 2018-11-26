@@ -30,3 +30,19 @@
 ** Subsection 2.3
    Sup blah here
 
+
+* Section 3
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: section3
+  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs :linktitle "Section 3"
+  :EXPORT_HUGO_MENU: menu "mlai"
+  :END:
+
+** Subsection 3.1
+   Blah blah blah
+** Subsection 3.2 
+   Blah blah blah two blah blah 
+** Subsection 3.3
+   Sup blah blah here 
+
+
