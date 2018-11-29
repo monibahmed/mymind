@@ -9,7 +9,7 @@
 baseurl = "https://monib.life/"
 
 # Title of your site
-title = "MONIB AHMED"
+title = "Monib Ahmed"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -17,7 +17,6 @@ copyright = "&copy; 2018"
 
 theme = "academic"
 enableEmoji = false
-#footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 paginate = 10
@@ -99,7 +98,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "dark"
+  color_theme = "forest"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
