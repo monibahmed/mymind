@@ -130,9 +130,7 @@
   :EXPORT_FILE_NAME: _index
   :EXPORT_HUGO_MENU: :menu "main"
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
-  :END:
-  
-  
+  :END: 
   
 * Mathematics
   :PROPERTIES:
