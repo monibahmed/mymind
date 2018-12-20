@@ -19,15 +19,23 @@
    - Maybe look at tracking and scheduling on website
    - Change org styling in Emacs 
 
-
-* Religion
+     
+* Spirituality
   :PROPERTIES:
-  :EXPORT_HUGO_SECTION: religion
+  :EXPORT_HUGO_SECTION: spirituality
   :EXPORT_FILE_NAME: _index
   :EXPORT_HUGO_MENU: :menu "main"
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
   
+  
+* Life Skills
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: life_skills
+  :EXPORT_FILE_NAME: _index
+  :EXPORT_HUGO_MENU: :menu "main"
+  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
+  :END:
   
   
 * Mathematics
@@ -50,17 +58,6 @@
   
   
   
-* Engineering
-  :PROPERTIES:
-  :EXPORT_HUGO_SECTION: engineering
-  :EXPORT_FILE_NAME: _index
-  :EXPORT_HUGO_MENU: :menu "main"
-  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
-  :END:
-  
-  
-  
-
 * Machine Learning
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: mlai
@@ -79,17 +76,6 @@
   :EXPORT_HUGO_MENU: :menu "main"
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
-  
-
-
-* Books Read
-  :PROPERTIES:
-  :EXPORT_HUGO_SECTION: booksread
-  :EXPORT_FILE_NAME: _index
-  :EXPORT_HUGO_MENU: :menu "main"
-  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
-  :END:
-  
   
 
 * Career
