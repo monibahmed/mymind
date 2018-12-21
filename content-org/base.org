@@ -9,8 +9,34 @@
  
   Welcome to my mind and my life. This is a platform for me to put down thoughts
   and track progress. This is also a way for me to publicize what I am working
-  on. Basically my life sucks. I don't spend quality time with God or Ayesha.
+  on. Basically my life sucks. 
 
+** Working Items:
+   - Setup draft and done items
+   - Setup tags and categories to be in sync with emacs
+   - Setup git / magit for push to publish automatically
+   - Enable contact information, link to LinkedIn page
+   - Find spell checker and use grammarly for posts
+   - Add resume / CV
+   - Maybe look at tracking and scheduling on website
+   - Change org styling in Emacs 
+
+* Spirituality
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: spirituality
+  :EXPORT_FILE_NAME: _index
+  :EXPORT_HUGO_MENU: :menu "main"
+  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
+  :END:
+  
+* Life Skills
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: life_skills 
+  :EXPORT_FILE_NAME: _index
+  :EXPORT_HUGO_MENU: :menu "main"
+  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
+  :END:
+ ** How to schedule your time better
   This bring up a good point, if there are 24-hours in a days, meaning time is
   fixed, how do you get more done? What does the Quran and Hadith say?
 
@@ -97,42 +123,15 @@
    20-30 minutes and then go lay down again. You don’t want to get in the habit
    of thinking of bedtime as unpleasant and stressful.
    
-   
 ** Planning Out
    When you don't plan out you hit times that are free and really busy. Should
    plan out your day.
 
 ** How about Cold Showers?
+   Section not started yet
 
 
-
-** Working Items:
-   - Setup draft and done items
-   - Setup tags and categories to be in sync with emacs
-   - Setup git / magit for push to publish automatically
-   - Enable contact information, link to LinkedIn page
-   - Find spell checker and use grammarly for posts
-   - Add resume / CV
-   - Maybe look at tracking and scheduling on website
-   - Change org styling in Emacs 
-
-* Spirituality
-  :PROPERTIES:
-  :EXPORT_HUGO_SECTION: spirituality
-  :EXPORT_FILE_NAME: _index
-  :EXPORT_HUGO_MENU: :menu "main"
-  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
-  :END:
-  
-* Life Skills
-  :PROPERTIES:
-  :EXPORT_HUGO_SECTION: life_skills 
-  :EXPORT_FILE_NAME: _index
-  :EXPORT_HUGO_MENU: :menu "main"
-  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
-  :END:
-  
-  
+ 
 * Mathematics
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: mathematics
@@ -140,7 +139,6 @@
   :EXPORT_HUGO_MENU: :menu "main"
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
-  
   
 * Science
   :PROPERTIES:
@@ -150,7 +148,6 @@
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
   
-  
 * Machine Learning
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: mlai
@@ -158,7 +155,6 @@
   :EXPORT_HUGO_MENU: :menu "main"
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
-  
   
   
 * Music

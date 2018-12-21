@@ -6,7 +6,10 @@ draft = false
 
 Welcome to my mind and my life. This is a platform for me to put down thoughts
 and track progress. This is also a way for me to publicize what I am working
-on. Basically my life sucks. I don't spend quality time with God or Ayesha.
+on. Basically my life sucks.
+
+
+## How to schedule your time better {#how-to-schedule-your-time-better}
 
 This bring up a good point, if there are 24-hours in a days, meaning time is
 fixed, how do you get more done? What does the Quran and Hadith say?
