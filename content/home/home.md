@@ -6,7 +6,7 @@ draft = false
 
 Welcome to my mind and my life. This is a platform for me to put down thoughts
 and track progress. This is also a way for me to publicize what I am working
-on. Basically my life sucks.
+on.
 
 
 ## Working Items: {#working-items}

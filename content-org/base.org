@@ -9,7 +9,7 @@
  
   Welcome to my mind and my life. This is a platform for me to put down thoughts
   and track progress. This is also a way for me to publicize what I am working
-  on. Basically my life sucks. 
+  on. 
 
 ** Working Items:
    - Setup draft and done items
@@ -131,7 +131,6 @@
    Section not started yet
 
 
- 
 * Mathematics
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: mathematics
@@ -155,7 +154,6 @@
   :EXPORT_HUGO_MENU: :menu "main"
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
-  
   
 * Music
   :PROPERTIES:
