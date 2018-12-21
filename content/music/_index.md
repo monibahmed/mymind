@@ -5,6 +5,6 @@ draft = false
 toc = true
 type = "docs"
 [menu.main]
-  weight = 1005
+  weight = 1007
   identifier = "music"
 +++

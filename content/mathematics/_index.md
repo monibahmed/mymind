@@ -5,6 +5,6 @@ draft = false
 toc = true
 type = "docs"
 [menu.main]
-  weight = 1002
+  weight = 1004
   identifier = "mathematics"
 +++

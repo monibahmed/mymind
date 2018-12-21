@@ -5,7 +5,7 @@ draft = false
 toc = true
 type = "docs"
 [menu.main]
-  weight = 1006
+  weight = 1008
   identifier = "career"
 +++
 

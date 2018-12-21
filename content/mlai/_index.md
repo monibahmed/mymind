@@ -5,6 +5,6 @@ draft = false
 toc = true
 type = "docs"
 [menu.main]
-  weight = 1004
+  weight = 1006
   identifier = "machine-learning"
 +++

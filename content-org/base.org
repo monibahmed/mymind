@@ -96,21 +96,14 @@
    a few interesting articles. Do something low-stress and relatively boring for
    20-30 minutes and then go lay down again. You don’t want to get in the habit
    of thinking of bedtime as unpleasant and stressful.
-
-
+   
+   
 ** Planning Out
    When you don't plan out you hit times that are free and really busy. Should
    plan out your day.
 
 ** How about Cold Showers?
 
-
-
-
-** High Level Goals
-*** Religion
-    - Salat/Namaz
-    - 
 
 
 ** Working Items:
@@ -123,29 +116,17 @@
    - Maybe look at tracking and scheduling on website
    - Change org styling in Emacs 
 
-<<<<<<< HEAD
-     
-=======
-
->>>>>>> 3b0071fa56fa4e2357c6ad0a87033548f72c0789
 * Spirituality
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: spirituality
   :EXPORT_FILE_NAME: _index
   :EXPORT_HUGO_MENU: :menu "main"
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
-<<<<<<< HEAD
   :END:
   
-  
 * Life Skills
-=======
-  :END: 
-  
-* Mathematics
->>>>>>> 3b0071fa56fa4e2357c6ad0a87033548f72c0789
   :PROPERTIES:
-  :EXPORT_HUGO_SECTION: life_skills
+  :EXPORT_HUGO_SECTION: life_skills 
   :EXPORT_FILE_NAME: _index
   :EXPORT_HUGO_MENU: :menu "main"
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
@@ -161,7 +142,6 @@
   :END:
   
   
-  
 * Science
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: science
@@ -169,7 +149,6 @@
   :EXPORT_HUGO_MENU: :menu "main"
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
-  
   
   
 * Machine Learning
@@ -182,7 +161,6 @@
   
   
   
-
 * Music
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: music
@@ -191,7 +169,6 @@
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
   
-
 * Career
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: career
@@ -199,7 +176,7 @@
   :EXPORT_HUGO_MENU: :menu "main"
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
-
+  
 
 ** Working Items 
 *** Why Smart People aren't successful
@@ -215,3 +192,4 @@
 
   
 
+     

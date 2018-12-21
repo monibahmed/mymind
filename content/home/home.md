@@ -106,15 +106,6 @@ plan out your day.
 ## How about Cold Showers? {#how-about-cold-showers}
 
 
-## High Level Goals {#high-level-goals}
-
-
-### Religion {#religion}
-
--   Salat/Namaz
--
-
-
 ## Working Items: {#working-items}
 
 -   Setup draft and done items
@@ -125,9 +116,3 @@ plan out your day.
 -   Add resume / CV
 -   Maybe look at tracking and scheduling on website
 -   Change org styling in Emacs
-
-<<<<<<< HEAD
-
-`=====`
-
->>>>>>> 3b0071fa56fa4e2357c6ad0a87033548f72c0789

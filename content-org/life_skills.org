@@ -5,9 +5,9 @@
   :PROPERTIES:
   :EXPORT_FILE_NAME: section1
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs :linktitle "Section 1"
-  :EXPORT_HUGO_MENU: menu "religion"
+  :EXPORT_HUGO_MENU: menu "life_skills"
   :END:
-
+  
 ** Subsection 1.1
    Blah blah blah
 ** Subsection 1.2 
@@ -20,7 +20,7 @@
   :PROPERTIES:
   :EXPORT_FILE_NAME: section2
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs :linktitle "Section 2"
-  :EXPORT_HUGO_MENU: menu "religion"
+  :EXPORT_HUGO_MENU: menu "life_skills"
   :END:
 
 ** Subsection 2.1
