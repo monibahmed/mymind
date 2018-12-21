@@ -8,5 +8,4 @@
   :EXPORT_HUGO_MENU: menu "mathematics"
   :END:
 
-** Single-wddwwODWeight
         

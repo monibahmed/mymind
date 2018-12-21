@@ -130,7 +130,6 @@
 ** How about Cold Showers?
    Section not started yet
 
-
 * Mathematics
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: mathematics

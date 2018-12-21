@@ -9,5 +9,3 @@ linktitle = "Section 1"
   weight = 1001
   identifier = "linear-regression"
 +++
-
-## Single-wddwwODWeight {#single-wddwwodweight}
