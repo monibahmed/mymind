@@ -4,7 +4,7 @@
 * Linear Regression 
   :PROPERTIES:
   :EXPORT_FILE_NAME: linear_regression 
-  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs :linktitle "Section 1"
+  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs :linktitle "Linear Regression"
   :EXPORT_HUGO_MENU: menu "mlai"
   :END:
 

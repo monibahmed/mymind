@@ -4,7 +4,7 @@ author = ["Monib Ahmed"]
 draft = false
 toc = true
 type = "docs"
-linktitle = "Section 1"
+linktitle = "Linear Regression"
 [menu.mlai]
   weight = 1001
   identifier = "linear-regression"
