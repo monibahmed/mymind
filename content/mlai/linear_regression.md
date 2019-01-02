@@ -29,3 +29,23 @@ closer to the actual speed of the car.
 
 Linear regression is a method that can help approach a close
 approximation of the speed. Linear Regression
+
+Points:
+
+-   Single variable, single weight
+    -   Simple to understand the mechanics
+    -   Simple to visualize as well
+-   Linear Regression
+    -   Linear: Transformation where a variable is
+        raised to power of one or zero.
+    -   Regression: Finding a relationship between variables.
+-   Visual description
+    -   With two data points
+    -   With three data points (assuming third data point is off the line)
+-   Minimization Techniques
+    -   Mathematical Formulas
+        -   Solving for X variables
+        -   Solving using Matrices
+    -   Computational Algorithms
+        -   Gradient Descent
+        -

@@ -1,32 +1,93 @@
 #+HUGO_BASE_DIR: ../
 #+HUGO_SECTION: music
 
-* Section 1
+* Guitar 
   :PROPERTIES:
-  :EXPORT_FILE_NAME: section1
-  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs :linktitle "Section 1"
+  :EXPORT_FILE_NAME: guitar 
+  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs :linktitle "Guitar"
   :EXPORT_HUGO_MENU: menu "music"
   :END:
 
-** Subsection 1.1
-   Blah blah blah
-** Subsection 1.2 
-   Blah blah blah two blah blah 
-** Subsection 1.3
-   Sup blah blah here
+
+** Desi Serna - Fretboard Theory
+*** Chapter 1: Review
+    Notes on strings
+    Steps
+    Octaves
+    
+*** Chapter 2: Pentatonic Scale
+    Scale used to create riffs, solos and basslines
+    Scale Patterns
+    Connecting Shapes
+    Fingering
+    Major and Minor Tonalities
+    
+*** Chapter 3: CAGED Chord System
+    Moveable Shapes
+    Arpeggios
+    Inversions
+    Voicings
+    Partial Forms
+    
+*** Chapter 4: Combining Pentatonic Scale and CAGED Chords
+    Combining scale patterns and chord forms
+    Major and Minor Tonalities
+
+*** Chapter 5: The Major Scale
+    Scale used to create melodies, riffs, solos and basslines
+    Scale construction
+    Connect to CAGED System
+    Step Formula
+    Keys
+    Scale Patterns
+    Comparison with Pentonic Scale
+
+*** Chapter 6: Chord Progressions
+    Six commonly used chords recognized by number
+    Triads
+    Chord Construction
+    Intervals
+    Major scale chords patterns
+    Playing by numbers
+    Progressions
+    
+*** Chapter 7: Roots, Key and Applying Scales
+    How do scales, chords, and keys fil together?
+    Applying Pentatonic Scale
+    Identifying root chords
+    Outlining a chord progression
+    Blues
+    Applying the major scale
+    Determining the key
+    Combining pentatonic and major scales
+    Root/Key Dilemma
+
+*** Chapter 8: Modes
+    Greater clarity on the root/key relationship
+    Seven possible roots of the major scale
+    Greek modes names
+    Sound characteristics
+    Key changes
+    Modes and the blues
+
+*** Chapter 9: Intervals
+    Distance between notes
+    Music's little ruler
+    Commonly used intervals
+    Inverted intervals
+    Thirds
+    Fifths
+    Sixths
+    Octaves
+
+*** Chapter 10: Chord Extensions
+    Adding remaining intervals of the major scale to chords
+    
+    Chord patterns with sevenths
+    CAGED with sevenths
+    Seconds, fourths, sixths, ninths
+    Chord build chart
+    Chord shapes
 
 
-* Section 2
-  :PROPERTIES:
-  :EXPORT_FILE_NAME: section2
-  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs :linktitle "Section 2"
-  :EXPORT_HUGO_MENU: menu "music"
-  :END:
-
-** Subsection 2.1
-   Blah blah blah
-** Subsection 2.2 
-   Blah blah blah two blah blah 
-** Subsection 2.3
-   Sup blah here
 
