@@ -24,3 +24,67 @@ somewhere and keep tabs on it, I will retain more.
 -   Add resume / CV
 -   Maybe look at tracking and scheduling on website
 -   Change org styling in Emacs
+
+
+## Pending List {#pending-list}
+
+-   Learning to Learn
+-   Mathematics
+    1.  MIT OCW Probablility - <https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/>
+    2.  MIT OCW Linear Algebra - <https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/>
+    3.  3blue1brown Linear Algebra - <https://www.youtube.com/watch?v=fNk%5FzzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE%5Fab>
+    4.  3blue1brown Calculus -  <https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr>
+    5.  Complex Mathematics
+-   Science
+    -   Richard Feynman Lectures in Physics
+    -   Halliday Physics
+-   Life Skills
+
+-   Spirituality
+-   Relationships
+
+
+## The will to change {#the-will-to-change}
+
+You want to change you life, in ways for the better. How do you do
+it? You have to focus on your habits, will-power and faith. Maybe
+not in that order, but in some way there is a fundamental chnage
+needed. Goals are devices that indicate success. your health and
+exercise heavily affect your drive and focus.
+
+Self-Discipline, time management, mind management and space
+management all affect the final goal. There is a struggle, the
+fight is real, you'll need tools and divine light on your side.
+
+Start with your morning routines and other aspects will closely
+follow. Disciple in spirituality will radiate into exercise,
+knowledge, work, and family. Faith is God is the foundation.
+
+Focus is essential, you notice your mind wandering quite often, and
+you think why can't I just do it. You lack focus. Kung Fu thought
+you focus, you realized it with the various movements and the
+points you had to hit consistently. You somewhat had focus before,
+but now it's lost, find it.
+
+
+## Must do in life {#must-do-in-life}
+
+Must do items from your brain that keep nagging you whenever you
+are being lazy.
+
+1.  Be closer to God
+2.  Learn an instrument
+3.  Spend consistent quality time with family
+4.  Learn Mathematics and applications
+5.  Be more efficient
+6.  Talk less, let others talk more (learn to throw stones in ponds)
+7.  Learn the brain
+8.  Have a good body
+9.  Be more calculating with people
+10. Develop your values
+    -   Patience
+11. Get into research
+12. Learn Physics
+13. Make an Album
+14. Spend quality time with people
+15. Crush you ego

@@ -11,16 +11,16 @@
 
 ** Desi Serna - Fretboard Theory
 *** Chapter 1: Review
-    Notes on strings
-    Steps
-    Octaves
+    - Notes on strings
+    - Steps
+    - Octaves
     
 *** Chapter 2: Pentatonic Scale
-    Scale used to create riffs, solos and basslines
-    Scale Patterns
-    Connecting Shapes
-    Fingering
-    Major and Minor Tonalities
+    - Scale used to create riffs, solos and basslines
+    - Scale Patterns
+    - Connecting Shapes
+    - Fingering
+    - Major and Minor Tonalities
     
 *** Chapter 3: CAGED Chord System
     Moveable Shapes

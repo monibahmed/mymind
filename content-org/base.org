@@ -26,6 +26,71 @@
    - Maybe look at tracking and scheduling on website
    - Change org styling in Emacs 
 
+
+** Pending List 
+   - Learning to Learn
+   - Mathematics
+     1. MIT OCW Probablility - https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/
+     2. MIT OCW Linear Algebra - https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
+     3. 3blue1brown Linear Algebra - https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+     4. 3blue1brown Calculus -  https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+     5. Complex Mathematics 
+   - Science
+     - Richard Feynman Lectures in Physics
+     - Halliday Physics
+   - Life Skills
+     
+   - Spirituality
+   - Relationships
+   
+
+** The will to change 
+   You want to change you life, in ways for the better. How do you do
+   it? You have to focus on your habits, will-power and faith. Maybe
+   not in that order, but in some way there is a fundamental chnage
+   needed. Goals are devices that indicate success. your health and
+   exercise heavily affect your drive and focus. 
+
+   Self-Discipline, time management, mind management and space
+   management all affect the final goal. There is a struggle, the
+   fight is real, you'll need tools and divine light on your side.
+
+   Start with your morning routines and other aspects will closely
+   follow. Disciple in spirituality will radiate into exercise,
+   knowledge, work, and family. Faith is God is the foundation. 
+
+   Focus is essential, you notice your mind wandering quite often, and
+   you think why can't I just do it. You lack focus. Kung Fu thought
+   you focus, you realized it with the various movements and the
+   points you had to hit consistently. You somewhat had focus before,
+   but now it's lost, find it.
+
+   Be purpose driven not passion driven. Purpose is having your end
+   goal in mind, your ego is big enough to tell you that you can do
+   everything. But you can't, you need to look at your end goal and
+   priotize the time. Remember the 80/20 rule, spend 20% of you time
+   on stuff that will give you 80% of the impact.
+
+** Must do in life
+   Must do items from your brain that keep nagging you whenever you
+   are being lazy.
+   1. Be closer to God
+   2. Learn an instrument
+   3. Spend consistent quality time with family
+   4. Learn Mathematics and applications
+   5. Be more efficient
+   6. Talk less, let others talk more (learn to throw stones in ponds)
+   7. Learn the brain
+   8. Have a good body
+   9. Be more calculating with people
+   10. Develop your values
+       - Patience
+   11. Get into research
+   12. Learn Physics
+   13. Make an Album
+   14. Spend quality time with people
+   15. Crush you ego
+
 * Spirituality
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: spirituality
@@ -33,7 +98,20 @@
   :EXPORT_HUGO_MENU: :menu "main"
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
-  
+
+** Processing List
+  1. Learn the essence of Salat
+  2. Learn the Quran and Arabic
+  3. Recite the Quran 
+  4. Write on topics
+  5. Write to Huzur
+  6. Be closer to Him
+  7. Increase your faith
+  8. Video notes on topics
+  9. Listen to Friday sermons and MTA
+  10. Read books
+
+
 * Life Skills
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: life_skills 
@@ -41,99 +119,37 @@
   :EXPORT_HUGO_MENU: :menu "main"
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
- ** How to schedule your time better
-  This bring up a good point, if there are 24-hours in a days, meaning time is
-  fixed, how do you get more done? What does the Quran and Hadith say?
-
-  Lets start with a schedule, and then add items to process into it:
-
-  | Time     | Activity    | Monday | Tuesday | Wednesday | Thursday | Friday | Importance            |
-  |----------+-------------+--------+---------+-----------+----------+--------+-----------------------|
-  | 4:30 AM  | Tahajjud    |        |         |           |          |        | Connect with God      |
-  | 5:00 AM  | Quran       |        |         |           |          |        | God's Systems         |
-  | 5:30 AM  | Arabic      |        |         |           |          |        | God's Language        |
-  | 6:00 AM  | Exercise    |        |         |           |          |        | Physical Well Being   |
-  | 7:00 AM  | Misc Items  |        |         |           |          |        | Get Ready, Eat, Drive |
-  | 8:00 AM  | Knowledge   |        |         |           |          |        |                       |
-  | 9:30 AM  | Work        | X      | X       |           |          |        |                       |
-  | 12:00 PM | Knowledge   |        |         |           |          |        |                       |
-  | 12:30 PM | Lunch       | X      |         |           |          |        |                       |
-  | 1:00 PM  | Work        |        |         |           |          |        |                       |
-  | 3:30 PM  | Knowledge   |        |         |           |          |        |                       |
-  | 5:00 PM  | Misc Items  |        |         |           |          |        |                       |
-  | 6:00 PM  | Family Time | X      |         |           |          |        |                       |
-  | 8:30 PM  | Music       | X      |         |           |          |        |                       |
-  | 10:00 PM | Reading     |        |         |           |          |        |                       |
-  | 10:30 PM | Sleep       | X      |         |           |          |        |                       |
   
-  This gives you 6 hours of sleep, which is recommended by Huzur. 
+** Skills Processing List
+   1. Focus and attention
+   2. Time management
+   3. Learning
+   4. Emotional control
+   5. Habits control
+   6. Identifying purpose
+   7. Identifying values
 
-** How to get a Better Sleep?
-   1. Stick to a sleep schedule.
-   2. Practice a relaxing bedtime ritual
-   3. Exercise Daily
-   4. Bedroom temperature, light and sounds
-   5. Comfortable bed
-   6. Use bright lights to help circadian rhythms
-   7. Wind down
-   8. If you can't sleep, go to another room to do something relaxing
+** Health Processing List
+   1. Exercise
+   2. Eat heathier and lesser
+   3. Be mentally stable
+   4. Memory exercises
+   5. Eyes, ears, nails, nose, brain, other physical functions
+
+** Family Processing List
+   1. Learn with Ayesha
+   2. Ayesha development and projects
+   3. Activities in the evening
+   4. Quality time together
+   5. Cooking
+   6. Family trips and activities outdoors
+   7. Learn with Amber
+   8. Amber development and time together
    
-   Eight hours of sleep is worthless if you spend all of it tossing and turning,
-   or you only sleep for about 3-4 hours of it. One study published in the
-   Journal of Psychosomatic Research concluded that quality of sleep is more
-   important than quantity of sleep when it comes to feeling rested and
-   rejuvenated. Trying to fix poor sleep habits by going to bed earlier is like
-   trying to lose weight by spending more time at the gym without actually
-   changing the duration of your workout. Once you’ve learned to optimize your
-   time, you’ll see better results. Optimizing your sleep depends heavily on
-   three things: preparation (building good sleep habits), environment (tweaking
-   your surroundings for optimal sleep), and timing (getting the sleep you need
-   when you need it). Nothing can stand in for a good night’s sleep. Today we’re
-   not going to show you how to scrape by with less sleep; instead, we’re going
-   to help you reboot your sleeping habits so you get the sleep you need (and
-   deserve). 
-
-   Practice Good Sleep Hygiene: Sleep hygiene is similar to your end-of-day
-   personal hygiene. Just like you wash your face and brush your teeth before
-   bed, sleep hygiene is an umbrella term that covers all the things you do
-   leading up to sleep that help or hinder restful sleep.
-
-   Don’t drink anything with caffeine in it after dinner. Dependent on age,
-   gender, and other physiological factors the half-life of caffeine in the body
-   is roughly 5-10 hours. In other words, that cup of coffee you drank at 7PM is
-   still with you at midnight. Nicotine is another common stimulant; you should
-   quit or make your last cigarette of the day well before bed.
-
-   Step away from the screens. Exposing yourself to the glow of a screen before
-   bed will keep you awake. Your body is hardwired to wake up when light is
-   bright and go to sleep when it gets dark. If you shine a bright light in your
-   face before bed you’re telling your body it’s time to perk up and be alert.
-   If you absolutely must use a computer or mobile device later in the day, at
-   least turn the screen brightness way down to semi-counter the effect of the
-   light.
-
-   Purge your bedroom. No computers, no television, no balancing your checkbook
-   in bed, no reading over those damn TPS reports, no anything but sleeping and
-   getting it on (in whatever order works best for you). 
-
-   Don’t torture yourself. You didn’t drink any coffee, you turned off the
-   computer at 7PM, you lugged the TV down to the basement, you put in ear plugs
-   and pulled the shades, but it’s 11PM and you’re still tossing and turning.
-   Don’t torture yourself by laying in bed frustrated. Get out of bed and do
-   something that will relax you. Don’t go watch television, play video games,
-   or anything else that will stimulate your brain into thinking it is time to
-   wake up. Go sit in a comfortable chair and read a book for a little while.
-   Sort through magazines you’re going to toss in the recycling bin and clip out
-   a few interesting articles. Do something low-stress and relatively boring for
-   20-30 minutes and then go lay down again. You don’t want to get in the habit
-   of thinking of bedtime as unpleasant and stressful.
-   
-** Planning Out
-   When you don't plan out you hit times that are free and really busy. Should
-   plan out your day.
-
-** How about Cold Showers?
-   Section not started yet
+** Relationships Processing List
+   1. Deal with people
+   2. Be more convincing
+   3. Build up your emotional intelligence
 
 * Mathematics
   :PROPERTIES:
@@ -143,6 +159,9 @@
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
   
+** Processing List
+   1. 
+
 * Science
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: science
@@ -167,6 +186,19 @@
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
   
+** Processing List:
+   1. Learn Synthesis / your synthesizers
+   2. Learn how the piano works
+   3. Learn how the guitar works
+   4. Learn how the drum works 
+   5. Make music, perform
+   6. Setup your studio and room
+   7. Create DJ Mix sets
+   8. Write about theory, composition and learning
+   9. Write about songs
+   10. Video performances
+
+
 * Career
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: career
@@ -174,7 +206,6 @@
   :EXPORT_HUGO_MENU: :menu "main"
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
-  
 
 ** Working Items 
 *** Why Smart People aren't successful
@@ -184,10 +215,3 @@
      - Value of time
      - Abundance of options (lack of focus)
      - Future looking
-
-
-
-
-  
-
-     

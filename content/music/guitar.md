@@ -15,18 +15,18 @@ linktitle = "Guitar"
 
 ### Chapter 1: Review {#chapter-1-review}
 
-Notes on strings
-Steps
-Octaves
+-   Notes on strings
+-   Steps
+-   Octaves
 
 
 ### Chapter 2: Pentatonic Scale {#chapter-2-pentatonic-scale}
 
-Scale used to create riffs, solos and basslines
-Scale Patterns
-Connecting Shapes
-Fingering
-Major and Minor Tonalities
+-   Scale used to create riffs, solos and basslines
+-   Scale Patterns
+-   Connecting Shapes
+-   Fingering
+-   Major and Minor Tonalities
 
 
 ### Chapter 3: CAGED Chord System {#chapter-3-caged-chord-system}
