@@ -9,7 +9,7 @@ type = "docs"
   identifier = "spirituality"
 +++
 
-## Processing List <code>[/]</code> {#processing-list}
+## Processing List <code>[0/10]</code> {#processing-list}
 
 1.  [ ] Learn the essence of Salat
 2.  [ ] Learn the Quran and Arabic

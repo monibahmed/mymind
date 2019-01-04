@@ -66,11 +66,28 @@ are being lazy.
 15. Crush you ego
 
 
-## Working Items <code>[0/8]</code> {#working-items}
+## Life consists of {#life-consists-of}
+
+My theory is that life can be broken down into these factors:
+
+1.  Spirituality
+2.  Experiences
+3.  Emotions
+4.  Knowledge
+5.  Physical Capabilities
+6.  Relations
+7.  Habits
+
+Life should be driven by your values trying to achieve a
+purpose. Purpose is driven by what is meaningful to you. Choices
+drive your goals.
+
+
+## Working Items <code>[1/8]</code> {#working-items}
 
 -   [ ] Setup draft and done items
 -   [ ] Setup tags and categories to be in sync with emacs
--   [ ] Setup git / magit for push to publish automatically
+-   [X] Setup git for push to publish automatically
 -   [ ] Enable contact information, link to LinkedIn page
 -   [ ] Find spell checker and use grammarly for posts
 -   [ ] Add resume / CV
