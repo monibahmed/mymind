@@ -83,7 +83,7 @@ purpose. Purpose is driven by what is meaningful to you. Choices
 drive your goals.
 
 
-## Working Items <code>[1/8]</code> {#working-items}
+## Working Items <code>[1/9]</code> {#working-items}
 
 -   [ ] Setup draft and done items
 -   [ ] Setup tags and categories to be in sync with emacs
@@ -93,3 +93,4 @@ drive your goals.
 -   [ ] Add resume / CV
 -   [ ] Maybe look at tracking and scheduling on website
 -   [ ] Change org styling in Emacs
+-   [ ] Work on site styling, making in more tuned with content

@@ -78,7 +78,7 @@
    purpose. Purpose is driven by what is meaningful to you. Choices
    drive your goals.
 
-** Working Items [1/8] 
+** Working Items [1/9] 
    - [ ] Setup draft and done items
    - [ ] Setup tags and categories to be in sync with emacs
    - [X] Setup git for push to publish automatically
@@ -86,8 +86,9 @@
    - [ ] Find spell checker and use grammarly for posts
    - [ ] Add resume / CV
    - [ ] Maybe look at tracking and scheduling on website
-   - [ ] Change org styling in Emacs 
-
+   - [ ] Change org styling in Emacs
+   - [ ] Work on site styling, making in more tuned with content 
+     
 
 * Spirituality
   :PROPERTIES:
