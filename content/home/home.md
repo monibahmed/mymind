@@ -14,36 +14,6 @@ in terms of processing capabilities. However if I can store it
 somewhere and keep tabs on it, I will retain more.
 
 
-## Working Items: {#working-items}
-
--   Setup draft and done items
--   Setup tags and categories to be in sync with emacs
--   Setup git / magit for push to publish automatically
--   Enable contact information, link to LinkedIn page
--   Find spell checker and use grammarly for posts
--   Add resume / CV
--   Maybe look at tracking and scheduling on website
--   Change org styling in Emacs
-
-
-## Pending List {#pending-list}
-
--   Learning to Learn
--   Mathematics
-    1.  MIT OCW Probablility - <https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/>
-    2.  MIT OCW Linear Algebra - <https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/>
-    3.  3blue1brown Linear Algebra - <https://www.youtube.com/watch?v=fNk%5FzzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE%5Fab>
-    4.  3blue1brown Calculus -  <https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr>
-    5.  Complex Mathematics
--   Science
-    -   Richard Feynman Lectures in Physics
-    -   Halliday Physics
--   Life Skills
-
--   Spirituality
--   Relationships
-
-
 ## The will to change {#the-will-to-change}
 
 You want to change you life, in ways for the better. How do you do
@@ -65,6 +35,12 @@ you think why can't I just do it. You lack focus. Kung Fu thought
 you focus, you realized it with the various movements and the
 points you had to hit consistently. You somewhat had focus before,
 but now it's lost, find it.
+
+Be purpose driven not passion driven. Purpose is having your end
+goal in mind, your ego is big enough to tell you that you can do
+everything. But you can't, you need to look at your end goal and
+priotize the time. Remember the 80/20 rule, spend 20% of you time
+on stuff that will give you 80% of the impact.
 
 
 ## Must do in life {#must-do-in-life}
@@ -88,3 +64,15 @@ are being lazy.
 13. Make an Album
 14. Spend quality time with people
 15. Crush you ego
+
+
+## Working Items <code>[0/8]</code> {#working-items}
+
+-   [ ] Setup draft and done items
+-   [ ] Setup tags and categories to be in sync with emacs
+-   [ ] Setup git / magit for push to publish automatically
+-   [ ] Enable contact information, link to LinkedIn page
+-   [ ] Find spell checker and use grammarly for posts
+-   [ ] Add resume / CV
+-   [ ] Maybe look at tracking and scheduling on website
+-   [ ] Change org styling in Emacs

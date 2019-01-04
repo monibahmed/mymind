@@ -9,14 +9,7 @@ type = "docs"
   identifier = "career"
 +++
 
-## Working Items {#working-items}
+## Processing List <code>[0/2]</code> {#processing-list}
 
-
-### Why Smart People aren't successful {#why-smart-people-aren-t-successful}
-
--   Old friends = Old Ideas, New people = New Ideas
--   Averse to change
--   Risk Taking, Hard work
--   Value of time
--   Abundance of options (lack of focus)
--   Future looking
+1.  [ ] Add resume to this site
+2.  [ ] Work more efficiently

@@ -16,34 +16,6 @@
   in terms of processing capabilities. However if I can store it
   somewhere and keep tabs on it, I will retain more.
 
-** Working Items:
-   - Setup draft and done items
-   - Setup tags and categories to be in sync with emacs
-   - Setup git / magit for push to publish automatically
-   - Enable contact information, link to LinkedIn page
-   - Find spell checker and use grammarly for posts
-   - Add resume / CV
-   - Maybe look at tracking and scheduling on website
-   - Change org styling in Emacs 
-
-
-** Pending List 
-   - Learning to Learn
-   - Mathematics
-     1. MIT OCW Probablility - https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/
-     2. MIT OCW Linear Algebra - https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
-     3. 3blue1brown Linear Algebra - https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
-     4. 3blue1brown Calculus -  https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
-     5. Complex Mathematics 
-   - Science
-     - Richard Feynman Lectures in Physics
-     - Halliday Physics
-   - Life Skills
-     
-   - Spirituality
-   - Relationships
-   
-
 ** The will to change 
    You want to change you life, in ways for the better. How do you do
    it? You have to focus on your habits, will-power and faith. Maybe
@@ -74,6 +46,7 @@
 ** Must do in life
    Must do items from your brain that keep nagging you whenever you
    are being lazy.
+   
    1. Be closer to God
    2. Learn an instrument
    3. Spend consistent quality time with family
@@ -91,6 +64,17 @@
    14. Spend quality time with people
    15. Crush you ego
 
+** Working Items [0/8] 
+   - [ ] Setup draft and done items
+   - [ ] Setup tags and categories to be in sync with emacs
+   - [ ] Setup git / magit for push to publish automatically
+   - [ ] Enable contact information, link to LinkedIn page
+   - [ ] Find spell checker and use grammarly for posts
+   - [ ] Add resume / CV
+   - [ ] Maybe look at tracking and scheduling on website
+   - [ ] Change org styling in Emacs 
+
+
 * Spirituality
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: spirituality
@@ -99,17 +83,17 @@
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
 
-** Processing List
-  1. Learn the essence of Salat
-  2. Learn the Quran and Arabic
-  3. Recite the Quran 
-  4. Write on topics
-  5. Write to Huzur
-  6. Be closer to Him
-  7. Increase your faith
-  8. Video notes on topics
-  9. Listen to Friday sermons and MTA
-  10. Read books
+** Processing List [/]
+  1. [ ] Learn the essence of Salat
+  2. [ ] Learn the Quran and Arabic
+  3. [ ] Recite the Quran 
+  4. [ ] Write on topics
+  5. [ ] Write to Huzur
+  6. [ ] Be closer to Him
+  7. [ ] Increase your faith
+  8. [ ] Video notes on topics
+  9. [ ] Listen to Friday sermons and MTA
+  10. [ ] Read books
 
 
 * Life Skills
@@ -120,36 +104,39 @@
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
   
-** Skills Processing List
-   1. Focus and attention
-   2. Time management
-   3. Learning
-   4. Emotional control
-   5. Habits control
-   6. Identifying purpose
-   7. Identifying values
+** Skills Processing List [0/8]
+   1. [ ] Focus and attention
+   2. [ ] Time management
+   3. [ ] Learning
+   4. [ ] Emotional control
+   5. [ ] Habits control
+   6. [ ] Identifying purpose
+   7. [ ] Identifying values
+   8. [ ] Biographies of people
+ 
+** Health Processing List [0/5]
+   1. [ ] Exercise
+   2. [ ] Eat heathier and lesser
+   3. [ ] Be mentally stable
+   4. [ ] Memory exercises
+   5. [ ] Eyes, ears, nails, nose, brain, other physical functions
 
-** Health Processing List
-   1. Exercise
-   2. Eat heathier and lesser
-   3. Be mentally stable
-   4. Memory exercises
-   5. Eyes, ears, nails, nose, brain, other physical functions
-
-** Family Processing List
-   1. Learn with Ayesha
-   2. Ayesha development and projects
-   3. Activities in the evening
-   4. Quality time together
-   5. Cooking
-   6. Family trips and activities outdoors
-   7. Learn with Amber
-   8. Amber development and time together
+** Family Processing List [0/8]
+   1. [ ] Learn with Ayesha
+   2. [ ] Ayesha development and projects
+   3. [ ] Activities in the evening
+   4. [ ] Quality time together
+   5. [ ] Cooking
+   6. [ ] Family trips and activities outdoors
+   7. [ ] Learn with Amber
+   8. [ ] Amber development and time together
    
-** Relationships Processing List
-   1. Deal with people
-   2. Be more convincing
-   3. Build up your emotional intelligence
+
+** Relationships Processing List [0/3]
+   1. [ ] Deal with people
+   2. [ ] Be more convincing
+   3. [ ] Build up your emotional intelligence
+
 
 * Mathematics
   :PROPERTIES:
@@ -159,9 +146,14 @@
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
   
-** Processing List
-   1. 
-
+** Processing List [0/5]
+   1. [ ] MIT OCW Probablility - https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/
+   2. [ ] MIT OCW Linear Algebra - https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
+   3. [ ] 3blue1brown Linear Algebra - https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+   4. [ ] 3blue1brown Calculus -  https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+   5. [ ] Complex Mathematics 
+      
+   
 * Science
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: science
@@ -170,6 +162,11 @@
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
   
+** Processing List [0/2]
+   1. [ ] Richard Feynman Lectures in Physics
+   2. [ ] Walter Lewin's lectures
+
+
 * Machine Learning
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: mlai
@@ -178,6 +175,10 @@
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
   
+** Processing List [0/1]
+   1. [ ] Lazy Programmer Udemy course
+   
+
 * Music
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: music
@@ -186,17 +187,17 @@
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
   
-** Processing List:
-   1. Learn Synthesis / your synthesizers
-   2. Learn how the piano works
-   3. Learn how the guitar works
-   4. Learn how the drum works 
-   5. Make music, perform
-   6. Setup your studio and room
-   7. Create DJ Mix sets
-   8. Write about theory, composition and learning
-   9. Write about songs
-   10. Video performances
+** Processing List [0/10]
+   1. [ ] Learn Synthesis / your synthesizers
+   2. [ ] Learn how the piano works
+   3. [ ] Learn how the guitar works
+   4. [ ] Learn how the drum works 
+   5. [ ] Make music, perform
+   6. [ ] Setup your studio and room
+   7. [ ] Create DJ Mix sets
+   8. [ ] Write about theory, composition and learning
+   9. [ ] Write about songs
+   10. [ ] Video performances
 
 
 * Career
@@ -206,12 +207,7 @@
   :EXPORT_HUGO_MENU: :menu "main"
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type docs
   :END:
-
-** Working Items 
-*** Why Smart People aren't successful
-     - Old friends = Old Ideas, New people = New Ideas
-     - Averse to change
-     - Risk Taking, Hard work
-     - Value of time
-     - Abundance of options (lack of focus)
-     - Future looking
+ 
+** Processing List [0/2] 
+   1. [ ] Add resume to this site
+   2. [ ] Work more efficiently

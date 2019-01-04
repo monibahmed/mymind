@@ -18,6 +18,7 @@ type = "docs"
 5.  Habits control
 6.  Identifying purpose
 7.  Identifying values
+8.  Biographies of people
 
 
 ## Health Processing List {#health-processing-list}
